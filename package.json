@@ -1,0 +1,12 @@
+{
+  "name": "hubspot-aloware-sms-cta-reply-tagging",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tag contacts who reply to a marketing text on an Aloware short code, skip opt-outs and replies to a person, and give reps HubSpot views of campaign replies vs their own conversations.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  }
+}
